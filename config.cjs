@@ -17,7 +17,7 @@ module.exports = {
   "ALLWAYS_ONLINE": flse,
   "MOROCCO_BLOCK": true,
   "BTN_MSG": false,
-  "OWNER_NAME": "𝐌𝖗 𝐍𝖎𝖕𝖚𝖓",
+  "OWNER_NAME": "MR NIPUN",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": true,
   "AUTO_RECORDING": true,
