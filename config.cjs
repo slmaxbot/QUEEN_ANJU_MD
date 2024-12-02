@@ -22,6 +22,6 @@ module.exports = {
   "AUTO_TYPING": true,
   "AUTO_RECORDING": false,
   "AUTO_NEWS": false,
-  "OWNER_REACT": true,
+  "OWNER_REACT": false,
   "EMOJI": "🏷"
 };
