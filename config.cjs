@@ -14,7 +14,7 @@ module.exports = {
   "ANTI_BAD": true,
   "ANTI_BOT": true,
   "ANTI_LINK": false,
-  "ALLWAYS_ONLINE": false,
+  "ALLWAYS_ONLINE": true,
   "MOROCCO_BLOCK": false,
   "BTN_MSG": false,
   "OWNER_NAME": "𝐌𝐫_𝐍𝖎𝖕𝖚𝖓",
