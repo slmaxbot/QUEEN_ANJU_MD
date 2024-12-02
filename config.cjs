@@ -20,7 +20,7 @@ module.exports = {
   "OWNER_NAME": "𝐌𝐫_𝐍𝖎𝖕𝖚𝖓",
   "NEWS_JID": "1234567890@s.whatsapp.net",
   "AUTO_TYPING": true,
-  "AUTO_RECORDING": true,
+  "AUTO_RECORDING": false,
   "AUTO_NEWS": false,
   "OWNER_REACT": true,
   "EMOJI": "🏷"
